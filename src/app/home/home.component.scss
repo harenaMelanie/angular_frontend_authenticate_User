@@ -1,0 +1,27 @@
+img{
+    width: 60vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+.user-manager{
+    margin-left: auto;
+    margin-right: auto;
+     height: 60vh;
+     margin-top: 200px;
+}
+.user-manager-title{
+    font-size: 30px;
+    font-weight: lighter;
+}
+button{
+    a{
+    color: aliceblue;
+    text-decoration: none;
+    //font-style: italic;
+    font-size: 20px;
+    }
+    border-radius: 15px;
+    width: 180px;
+}
